@@ -5,10 +5,10 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 id ="com.phonegap.app1"
 version ="1.0.0">
 
-<name>app4-dia mundial de la salud</name>
+<name>app4-dia internacional de la tierra</name>
 
 <description>
-aplicacion que muestra informacion sobre el dia mundial de la salud
+aplicacion que muestra informacion sobre el dia internacional de tierra
 </description>
 
 <author href="https://build.phonegap.com" emal="jacquelineorzuna95@gmail.com">
